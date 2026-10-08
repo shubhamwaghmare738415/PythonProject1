@@ -23,8 +23,11 @@ This project is created using basic Python concepts such as functions, lists, di
 
 ## Grading System Used
 85 and above == Grade "A"
+
 between 75 and 84 == Grade "B"
+
 between 50 and 74 == Grade "C"
+
 below 50 == "Fail"
 
 ## How it works
@@ -32,6 +35,8 @@ below 50 == "Fail"
 2. View Student 
 3. Calculate Result 
 4. Exit
+
+
 As you run Programm they will show an 4 choices above shown you have to first Add Student,
 then you can view student , calculate student's Result and then Exit.
 1.When you chose 2.view Student they will show students Name , Roll No and Marks .
